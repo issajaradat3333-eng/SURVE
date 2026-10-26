@@ -1,0 +1,8 @@
+{
+  "getKeyUrl": "https://your-site.com/get-key",
+  "apps": [
+    {"n":"Surve Studio","d":"Main workspace for your projects.","f":"studio.exe","u":"https://example.com/studio.exe","v":"1.0","paid":true,"tag":"Premium"},
+    {"n":"Surve Tools","d":"Utilities and everyday helpers.","f":"tools.exe","u":"https://example.com/tools.exe","v":"1.0","paid":false,"tag":"Free"},
+    {"n":"Surve Cloud","d":"Sync and back up your files.","f":"cloud.exe","u":"https://example.com/cloud.exe","v":"1.0","paid":true,"tag":"Premium"}
+  ]
+}
