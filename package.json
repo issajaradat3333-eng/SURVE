@@ -1,4 +1,1 @@
-{"name":"surve","version":"1.0.0","description":"Surve Launcher","main":"main.js",
-"scripts":{"start":"electron .","build":"electron-builder --win portable"},
-"build":{"appId":"com.surve.launcher","productName":"Surve","win":{"target":"portable"}},
-"devDependencies":{"electron":"^31.0.0","electron-builder":"^24.13.3"}}
+1
