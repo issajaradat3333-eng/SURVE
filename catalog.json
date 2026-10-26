@@ -2,12 +2,20 @@
   "getKeyUrl": "https://discord.gg/your-invite",
   "apps": [
     {
-      "n": "Surve Studio (محدث)",
-      "d": "هذا وصف جديد تم تغييره عبر البانل الخارجية!",
+      "n": "Surve Studio",
+      "d": "Main workspace for your projects.",
       "f": "studio.exe",
-      "v": "1.1",
+      "v": "1.0",
       "paid": true,
-      "u": "https://your-server.com/files/studio-v1.1.exe"
+      "u": "https://your-server.com/files/studio.exe"
+    },
+    {
+      "n": "Surve Tools",
+      "d": "Utilities and everyday helpers.",
+      "f": "tools.exe",
+      "v": "1.0",
+      "paid": false,
+      "u": "https://your-server.com/files/tools.exe"
     }
   ]
 }
